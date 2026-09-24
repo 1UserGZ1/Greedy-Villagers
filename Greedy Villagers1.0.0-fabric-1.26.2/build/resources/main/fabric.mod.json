@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "greedy_villagers",
+	"version": "1.0.0",
+	"name": "贪财村民",
+	"description": "手持绿宝石引诱村民跟随，掉落绿宝石让村民拾取并鉴赏，傻子村民有惊喜彩蛋！",
+	"authors": [
+		"DY_XiaoJiaZi"
+	],
+	"license": "MIT",
+	"icon": "assets/greedy_villagers/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.dyxiaojiazi.greedy_villagers.GreedyVillagersMod"
+		]
+	},
+	"mixins": [
+		"greedy_villagers.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

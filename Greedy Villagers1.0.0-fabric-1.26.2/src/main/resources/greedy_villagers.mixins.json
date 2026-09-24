@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "com.dyxiaojiazi.greedy_villagers.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"mixins": [
+		"VillagerGoalPackagesMixin",
+		"VillagerInvoker"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
