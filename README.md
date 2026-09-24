@@ -1,9 +1,3 @@
-下面这份模组简介可以直接放进 Modrinth / CurseForge / MC百科 的页面里，中英文各一份。
-
----
-
-## 中文版
-
 **模组名称**：贪财村民 (Greedy Villagers)
 
 **作者**：DY_XiaoJiaZi
